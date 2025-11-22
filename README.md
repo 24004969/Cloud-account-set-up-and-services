@@ -1,7 +1,7 @@
 # EX NO 1: Cloud-account-set-up-and-services
 
-### Name : NIKSHITHA G
-### Reg no: 212223110031
+### Name : Ajay J
+### Reg no: 212224110003
 
 ## Aim:
 To create an cloud account in AWS and to explore all of its services.
