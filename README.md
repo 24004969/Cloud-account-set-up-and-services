@@ -1,4 +1,4 @@
-# EX NO 1: Cloud-account-set-up-and-services
+# EX NO 1: Cloud account setup and services
 
 ### Name : Ajay J
 ### Reg no: 212224110003
